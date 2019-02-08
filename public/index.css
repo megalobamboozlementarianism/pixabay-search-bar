@@ -1,0 +1,12 @@
+body {
+    background-color: lightgray;
+}
+.flex-container{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    
+}
+.img-card{
+    margin-bottom: 5px;
+}
